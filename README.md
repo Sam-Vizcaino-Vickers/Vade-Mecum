@@ -2,7 +2,9 @@
 
 A *vademecum* (from the Latin for "go with me") is a compact, comprehensive handbook or pocket guide kept close at hand for instant reference.
 
-In the context for this  GitHub repository, this project serves as my digital reference tool. In other words, this repository will consolidate all the essential texts, setups, and troubleshooting fixes into one highly accessible, production-ready guide. It will contain the superficial information as to where I need go to to get the information as well. 
+In the context for this  GitHub repository, this project serves as my digital reference tool. In other words, this repository will consolidate all the essential texts, setups, and troubleshooting fixes into one highly accessible, production-ready guide. It will contain the superficial information as to where I need go to to get the information as well. The overarching goal is to compartmentalise the information to truly get the Statisticians toolkit for researching psychological phenomena appropriately 
+
+
 
 *Note - I have not exclusively read all the pages from every single book below (I have done with a few personal favourites :) ). I primarily selected certain chapters from the textbooks which explain certain topics more eloquently for me and thus incorporated into my notes and personal writings. 
 
